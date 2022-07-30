@@ -3,6 +3,9 @@
 [![Discord](https://discord.com/api/guilds/556844677115150366/widget.png)](https://discord.mlserver.xyz)
 
 # TODO
+<details>
+<summary>表示する</summary>
+
 ## 青鬼ゲーム6.23
 
 ## 青鬼ゲーム3.0
@@ -20,3 +23,6 @@
 
 ## スカイブロック鯖
 - [ ] 言語を日本語に変更しても日本語表記にならない
+
+</details>
+
