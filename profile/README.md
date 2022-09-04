@@ -1,4 +1,5 @@
-# MonsterLifeServer
+<h1 align="center">MonsterLifeServer</h1>
+
 [![Twitter](https://badgen.net/twitter/follow/mlserver2408?icon=twitter)](https://twitter.com/mlserver2408)
 [![Discord](https://discord.com/api/guilds/556844677115150366/widget.png)](https://discord.mlserver.xyz)
 
